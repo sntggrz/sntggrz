@@ -6,12 +6,18 @@ I build software that makes everyday work easier—from SaaS products and web in
 
 I enjoy connecting business needs with practical software, helping developers grow, and making complex workflows easier to use.
 
+Outside of work, I also build mobile apps, including **Navora**, my travel app built with **Swift**.
+
 ## 🚀 What I work on
 
 - **AdvantHub:** an ecosystem that helps construction companies manage purchasing and connect people, processes, and projects.
 - **Full-stack development:** FileMaker-based SaaS products with custom HTML, CSS, and JavaScript interfaces, database architecture, and API integrations.
-- **Engineering leadership:** mentoring developers, reviewing code, and improving development, QA, and support workflows.
+- **Engineering leadership:** working with different teams, reviewing code, and improving development, QA, and support workflows.
 - **Automation and performance:** simplifying manual processes and improving how software runs in production.
+
+## ✈️ Side project: Navora
+
+**Navora** is a travel app I built using **Swift**. It's my personal project alongside my work at Advant, bringing my software development experience into mobile apps.
 
 ## ✨ Selected work
 
