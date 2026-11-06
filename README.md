@@ -2,7 +2,7 @@
 
 **Software Engineer & Development Lead · Monterrey, México 🇲🇽**
 
-I build software that makes everyday work easier. At **Advant**, I lead technical direction while staying hands-on with development, databases, and API integrations.
+I build software that makes everyday work easier. At **Advant**, I lead technical direction while staying hands-on with development, databases, and user experience.
 
 ## What I work on 🙇🏻
 - **AdvantHub:** an ecosystem that helps construction companies manage purchasing and connect people, processes, and projects.
